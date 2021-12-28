@@ -3,7 +3,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h1. ul, p {
+h1, ul, p {
     margin: 0;
 }
 
